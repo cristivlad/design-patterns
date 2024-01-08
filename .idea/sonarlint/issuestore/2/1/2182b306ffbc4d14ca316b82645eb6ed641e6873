@@ -1,0 +1,21 @@
+
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(¦Š©úÿÿÿÿ8ûÙú¥Í1
+a	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(‡àG8ûÙú¥Í1
+h
+java:S2259E"KA "NullPointerException" could be thrown; "createMemento" is nullable here.(ù×öÏ8×şû¥Í1
+u
+java:S2259\"SA "NullPointerException" could be thrown; "findSetMementoMethod()" can return null.(¢úµğÿÿÿÿÿ8—Úú¥Í1
+x
+java:S22590"VA "NullPointerException" could be thrown; "findCreateMementoMethod()" can return null.(Ÿ„Ã“ûÿÿÿÿ8ë†¦Í1
+k
+java:S2259Y"NA "NullPointerException" could be thrown; "mementoImplClass" is nullable here.(–„âÃ8—Úú¥Í1
+e
+java:S2259E"HA "NullPointerException" could be thrown; "setMemento" is nullable here.(ù×öÏ8Öşû¥Í1
+s
+java:S2259["VA "NullPointerException" could be thrown; "findCreateMementoMethod()" can return null.( Ú¦¦8—Úú¥Í1
+u
+java:S2259>"SA "NullPointerException" could be thrown; "findSetMementoMethod()" can return null.(ü³Ï”úÿÿÿÿ8ê†¦Í1
+_
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(œ³«õøÿÿÿÿ8„‡¦Í1
+H
+java:S5960 "+Remove this assertion from production code.(ŠöÁÉ8°Úú¥Í1

@@ -1,0 +1,13 @@
+
+l
+java:S1192À"IDefine a constant instead of duplicating this literal "removeIf" 3 times.(§Èüÿÿÿÿ8§£õ×Ì1
+m
+java:S1192¨"JDefine a constant instead of duplicating this literal "removeAll" 3 times.(æÙÅ…úÿÿÿÿ8¨£õ×Ì1
+e
+java:S1192“"GDefine a constant instead of duplicating this literal "addAll" 3 times.(„‹¾ı8¨£õ×Ì1
+h
+java:S1192Ø"JDefine a constant instead of duplicating this literal "retainAll" 3 times.(…Öæø8¨£õ×Ì1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×õİ
+^	java:S125”"<This block of commented-out lines of code should be removed.(ó™Á¯ÿÿÿÿÿ8Æ£õ×Ì1
+M
+java:S5960."+Remove this assertion from production code.(´‡£øşÿÿÿÿ8Ñ±ö×Ì1

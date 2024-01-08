@@ -1,0 +1,5 @@
+
+r
+java:S1206 "PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ8´é”§Í1
+c
+java:S1126)"AReplace this if-then-else statement by a single return statement.(‹îÂ¶ùÿÿÿÿ8·é”§Í1

@@ -1,0 +1,23 @@
+
+K
+java:S1121`".Extract the assignment out of this expression.(ÁøÛÔ8“–ï×Ì1
+Q
+java:S1121".Extract the assignment out of this expression.(ŞÇ—¦øÿÿÿÿ8”–ï×Ì1
+Q
+java:S1121Š".Extract the assignment out of this expression.(Ÿ•õ¯úÿÿÿÿ8”–ï×Ì1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×õİ
+]	java:S125	"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ8 –ï×Ì1
+I
+java:S1905."'Remove this unnecessary cast to "long".(Œ‘Éøÿÿÿÿ8º„¤öÌ1
+I
+java:S1905I"'Remove this unnecessary cast to "long".(ó«¸Öÿÿÿÿÿ8¾„¤öÌ1
+I
+java:S1905S"'Remove this unnecessary cast to "long".(ó«¸Öÿÿÿÿÿ8Á„¤öÌ1
+D
+java:S1905`"'Remove this unnecessary cast to "long".(ÁøÛÔ8Ä„¤öÌ1
+>
+java:S1659~"!Declare "mid" on a separate line.(§°ÙÒ8¨–ï×Ì1
+>
+java:S1659‡" Declare "hi" on a separate line.(†Ã…–8©–ï×Ì1
+D
+java:S1905"'Remove this unnecessary cast to "long".(«ï¨8ª–ï×Ì1

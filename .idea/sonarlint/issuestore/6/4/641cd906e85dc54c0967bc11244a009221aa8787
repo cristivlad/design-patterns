@@ -1,0 +1,7 @@
+
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¥œá˜8Ø¦öÌ1
+{
+java:S2142F"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8İ…Ğ¥Í1
+H
+java:S5960"+Remove this assertion from production code.(€åŒÄ8Ûˆ§öÌ1

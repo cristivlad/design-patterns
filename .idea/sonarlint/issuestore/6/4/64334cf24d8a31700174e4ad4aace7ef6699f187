@@ -1,0 +1,148 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(ÌĞ¶Ç8ˆŠò×Ì1
+P
+java:S1121,".Extract the assignment out of this expression.(·øöŸüÿÿÿÿ8‰Šò×Ì1
+K
+java:S1121S".Extract the assignment out of this expression.(«‹ôá8‰Šò×Ì1
+P
+java:S1121X".Extract the assignment out of this expression.(“ˆá—şÿÿÿÿ8‰Šò×Ì1
+P
+java:S1121j".Extract the assignment out of this expression.(öå¥°üÿÿÿÿ8‰Šò×Ì1
+K
+java:S1121x".Extract the assignment out of this expression.(èø©Î8‰Šò×Ì1
+Q
+java:S1121•".Extract the assignment out of this expression.(å•óÿÿÿÿÿ8‰Šò×Ì1
+Q
+java:S1121•".Extract the assignment out of this expression.(å•óÿÿÿÿÿ8‰Šò×Ì1
+Q
+java:S1121 ".Extract the assignment out of this expression.(îúÀéøÿÿÿÿ8‰Šò×Ì1
+Q
+java:S1121 ".Extract the assignment out of this expression.(îúÀéøÿÿÿÿ8‰Šò×Ì1
+L
+java:S1121¢".Extract the assignment out of this expression.(Çš©ª8‰Šò×Ì1
+K
+java:S1121·".Extract the assignment out of this expression.(¥¥“8ŠŠò×Ì1
+L
+java:S1121ü".Extract the assignment out of this expression.(Ø¬Ì8ŠŠò×Ì1
+Q
+java:S1121ş".Extract the assignment out of this expression.(µ¦İşÿÿÿÿ8ŠŠò×Ì1
+Q
+java:S1121¾".Extract the assignment out of this expression.(’í¨úÿÿÿÿ8ŠŠò×Ì1
+Q
+java:S1121ğ".Extract the assignment out of this expression.(ö êûÿÿÿÿ8ŠŠò×Ì1
+Q
+java:S1121±".Extract the assignment out of this expression.(âòõ„øÿÿÿÿ8ŠŠò×Ì1
+L
+java:S1121³".Extract the assignment out of this expression.(‡ğûü8ŠŠò×Ì1
+L
+java:S1121Ä".Extract the assignment out of this expression.(ƒöğ±8ŠŠò×Ì1
+{	java:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(ÀÃÜØşÿÿÿÿ8‹Šò×Ì1
+z	java:S127¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8‹Šò×Ì1
+z	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ô¤Ö®ùÿÿÿÿ8‹Šò×Ì1
+z	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ô¤Ö®ùÿÿÿÿ8‹Šò×Ì1
+z	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8‹Šò×Ì1
+u	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(„€8ŒŠò×Ì1
+z	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8ŒŠò×Ì1
+z	java:S127ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8ŒŠò×Ì1
+z	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8ŒŠò×Ì1
+z	java:S127«"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8ŒŠò×Ì1
+z	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8ŒŠò×Ì1
+z	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(áï ˜ıÿÿÿÿ8ŒŠò×Ì1
+z	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(áï ˜ıÿÿÿÿ8ŒŠò×Ì1
+z	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(áï ˜ıÿÿÿÿ8ŒŠò×Ì1
+z	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(áï ˜ıÿÿÿÿ8Šò×Ì1
+z	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(íÌ¹óûÿÿÿÿ8Šò×Ì1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×õİ
+b
+java:S2583Œ"DChange this condition so that it does not always evaluate to "false"(Û–¤ú8‚ò×Ì1
+b
+java:S2583İ"DChange this condition so that it does not always evaluate to "false"(Û–¤ú8‚ò×Ì1
+b
+java:S2583í"DChange this condition so that it does not always evaluate to "false"(Û–¤ú8‚ò×Ì1
+a
+java:S2583‰"DChange this condition so that it does not always evaluate to "false"(ƒŞE8‚ò×Ì1
+}
+java:S4144Ö"ZUpdate this method so that its implementation is not identical to "offerLast" on line 131.(´¢ø”úÿÿÿÿ8…ò×Ì1
+R
+java:S2065"0Remove the "transient" modifier from this field.(ÓŞ¡³øÿÿÿÿ8Òö£öÌ1
+R
+java:S2065"0Remove the "transient" modifier from this field.(è«õ—ÿÿÿÿÿ8Óö£öÌ1
+M
+java:S2065"0Remove the "transient" modifier from this field.(ñ£·­8Óö£öÌ1
+O
+java:S1135	"2Complete the task associated to this TODO comment.(ªºÕ8ˆò×Ì1
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(éîö—üÿÿÿÿ8ˆò×Ì1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÕæïÛúÿÿÿÿ8ˆò×Ì1
+K
+java:S1659+")Declare "minCapacity" on a separate line.(®éÕ·üÿÿÿÿ8‹ò×Ì1
+f
+java:S3358?"DExtract this nested ternary operation into an independent statement.(¶ÖÔ®üÿÿÿÿ8Œò×Ì1
+\
+java:S1161v":Add the "@Override" annotation above this method signature(ŸÖÎ“øÿÿÿÿ8÷ö£öÌ1
+A
+java:S1659w"$Declare "needed" on a separate line.(áÍùä8‘ò×Ì1
+]
+java:S1161Ö":Add the "@Override" annotation above this method signature(´¢ø”úÿÿÿÿ8Š÷£öÌ1
+B
+java:S1659ú"Declare "t" on a separate line.(ÍÈÏµûÿÿÿÿ8šò×Ì1
+X
+java:S1161":Add the "@Override" annotation above this method signature(ûÄ•8—÷£öÌ1
+X
+java:S1161È":Add the "@Override" annotation above this method signature(ïÉ·§8÷£öÌ1
+]
+java:S1161Ï":Add the "@Override" annotation above this method signature(‰…¿·ûÿÿÿÿ8§ò×Ì1
+]
+java:S1161ë":Add the "@Override" annotation above this method signature(·Í­şÿÿÿÿ8¡ò×Ì1
+X
+java:S1161õ":Add the "@Override" annotation above this method signature(úÓêş8¢ò×Ì1
+X
+java:S1161ú":Add the "@Override" annotation above this method signature(’ø•Ü8¢ò×Ì1
+W
+java:S1161’":Add the "@Override" annotation above this method signature(§¹ˆ8¯÷£öÌ1
+X	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¼¦^8¥ò×Ì1
+B
+java:S1659°"Declare "n" on a separate line.(äğ¨±ûÿÿÿÿ8¦ò×Ì1
+u
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰…¿·ûÿÿÿÿ8§ò×Ì1
+]
+java:S1161¶":Add the "@Override" annotation above this method signature(‰…¿·ûÿÿÿÿ8·÷£öÌ1
+G
+java:S1659¹"$Declare "cursor" on a separate line.(ÙúŞÃÿÿÿÿÿ8¨ò×Ì1
+^
+java:S1117¹";Rename "cursor" which hides the field declared at line 408.(ÙúŞÃÿÿÿÿÿ8¨ò×Ì1
+]
+java:S1161å":Add the "@Override" annotation above this method signature(¿îùÿÿÿÿ8Á÷£öÌ1
+X
+java:S1161ô":Add the "@Override" annotation above this method signature(¬€İ˜8Ä÷£öÌ1
+X
+java:S1161ù":Add the "@Override" annotation above this method signature(ĞĞÍ•8Æ÷£öÌ1
+X
+java:S1161ş":Add the "@Override" annotation above this method signature(˜Áñï8È÷£öÌ1
+u
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(é¦®Äùÿÿÿÿ8°ò×Ì1
+]
+java:S1161È":Add the "@Override" annotation above this method signature(„”øÜşÿÿÿÿ8Ù÷£öÌ1
+X
+java:S1161Ô":Add the "@Override" annotation above this method signature(ÒÛŒ«8Ú÷£öÌ1
+]
+java:S1161Ø":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ8Ş÷£öÌ1
+Y	java:S125Ş"<This block of commented-out lines of code should be removed.(‚³†Ç8´ò×Ì1
+]
+java:S1161ç":Add the "@Override" annotation above this method signature(ÿªŞ“ûÿÿÿÿ8á÷£öÌ1
+v
+java:S2975í"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(§Ú‚ùÿÿÿÿ8µò×Ì1
+_
+java:S1854û"<Remove this useless assignment to local variable "capacity".(¹ïæÜøÿÿÿÿ8¶ò×Ì1
+H
+java:S1181ƒ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8¶ò×Ì1
+P
+java:S1481û"-Remove this unused "capacity" local variable.(¹ïæÜøÿÿÿÿ8¶ò×Ì1
+^	java:S125ü"<This block of commented-out lines of code should be removed.(“¹ƒ×øÿÿÿÿ8¶ò×Ì1
+M	java:S106„"+Replace this use of System.err by a logger.(øÁ°úÿÿÿÿ8·ò×Ì1
+M	java:S106†"+Replace this use of System.err by a logger.(“ß¨‡üÿÿÿÿ8·ò×Ì1
+V
+java:S1161":Add the "@Override" annotation above this method signature( ÙW8é÷£öÌ1

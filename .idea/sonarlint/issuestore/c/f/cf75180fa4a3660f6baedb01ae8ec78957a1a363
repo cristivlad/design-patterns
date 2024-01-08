@@ -1,0 +1,7 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(…âÙùÿÿÿÿ8¶ÂĞÔÍ1
+D
+java:S1872"'Use an "instanceof" comparison instead.(íÇÇÊ8ô§„§Í1
+L	java:S106D"+Replace this use of System.out by a logger.(ş¾ÑÛùÿÿÿÿ8‰¨„§Í1
+M
+java:S5960"+Remove this assertion from production code.(ÿÕÏ¨úÿÿÿÿ8ÉØ„§Í1

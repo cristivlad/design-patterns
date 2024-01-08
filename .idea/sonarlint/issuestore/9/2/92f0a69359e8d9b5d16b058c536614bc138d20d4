@@ -1,0 +1,35 @@
+
+a	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(û‚’8§ğ·ÔÎ1
+b	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(ğÔÈÚ8¨ğ·ÔÎ1
+t
+java:S2259."RA "NullPointerException" could be thrown; "virtualLutefiskClass" is nullable here.(Àºáùúÿÿÿÿ8…ñ·ÔÎ1
+o
+java:S2259"RA "NullPointerException" could be thrown; "virtualLutefiskClass" is nullable here.(¤Å‹8†ñ·ÔÎ1
+t
+java:S2259"RA "NullPointerException" could be thrown; "virtualLutefiskClass" is nullable here.(Àºáùúÿÿÿÿ8†ñ·ÔÎ1
+t
+java:S2259E"RA "NullPointerException" could be thrown; "virtualLutefiskClass" is nullable here.(†¤•¶ûÿÿÿÿ8†ñ·ÔÎ1
+o
+java:S2259("RA "NullPointerException" could be thrown; "virtualLutefiskClass" is nullable here.(¤Å‹8†ñ·ÔÎ1
+œ
+java:S4144#"Update this method so that its implementation is not identical to "testScandinaviansHaveReferenceToVirtualLutefisk" on line 18.(ÄÄìä8‡ñ·ÔÎ1
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(í‚ùˆıÿÿÿÿ8§ÙÔÍ1
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(í‚ùˆıÿÿÿÿ8¨ÙÔÍ1
+•
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(ñÈ*8‹ñ·ÔÎ1
+I
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8ÇòØÔÍ1
+I
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8ÉòØÔÍ1
+–
+java:S1130#"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(ÄÄìä8ñ·ÔÎ1
+I
+java:S3011'",This accessibility update should be removed.(˜ÂÓ˜8ÌòØÔÍ1
+I
+java:S3011-",This accessibility update should be removed.(˜ÂÓ˜8ÎòØÔÍ1
+I
+java:S3011I",This accessibility update should be removed.(¿ÂĞ8ÓòØÔÍ1
+M
+java:S5960"+Remove this assertion from production code.(â»âıÿÿÿÿ8´ÙÔÍ1
