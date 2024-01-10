@@ -4,12 +4,10 @@ public class TaxPayer {
     public static final int COMPANY = 0;
     public static final int EMPLOYEE = 1;
     public static final int TRUST = 2;
-    public static final double COMPANY_RATE = 0.30;
-    public static final double EMPLOYEE_RATE = 0.45;
-    public static final double TRUST_RATE = 0.35;
 
     private final double income;
     private final int type;
+    private TaxStrategy strategy;
 
     public TaxPayer(int type, double income) {
         this.type = type;
@@ -23,11 +21,14 @@ public class TaxPayer {
     public double extortCash() {
         switch (type) {
             case COMPANY:
-                return income * COMPANY_RATE;
+                strategy = new CompanyTax(this);
+                return strategy.extortCash();
             case EMPLOYEE:
-                return income * EMPLOYEE_RATE;
+                strategy = new EmployeeTax(this);
+                return strategy.extortCash();
             case TRUST:
-                return income * TRUST_RATE;
+                strategy = new TrustTax(this);
+                return strategy.extortCash();
             default:
                 throw new IllegalArgumentException();
         }
