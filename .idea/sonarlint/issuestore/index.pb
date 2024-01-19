@@ -206,3 +206,7 @@ a
 1src/main/java/strategy/exercise1/TaxStrategy.java,f\b\fb418932490820d6359a54c6590999dea6e6bfc0
 b
 2src/main/java/strategy/exercise1/StrategyTest.java,a\d\ad2d2882f8342b03d3d496dffe8c79eed677766d
+d
+4src/main/java/nullobject/exercise1/TextAnalyzer.java,d\4\d462c131a37d201ff9ed64e46b01bb72410a301b
+j
+:src/main/java/nullobject/exercise1/TextAnalyzerClient.java,5\6\567b80a401968ed3cb073216c828958a37c1d8dc
