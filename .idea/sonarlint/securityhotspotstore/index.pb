@@ -210,3 +210,5 @@ d
 4src/main/java/nullobject/exercise1/TextAnalyzer.java,d\4\d462c131a37d201ff9ed64e46b01bb72410a301b
 j
 :src/main/java/nullobject/exercise1/TextAnalyzerClient.java,5\6\567b80a401968ed3cb073216c828958a37c1d8dc
+>
+newsletter.txt,a\0\a07fa2b6c8602c1026dcfc38dafb23f950338cb6

@@ -11,9 +11,7 @@ public class TextAnalyzerClient {
         int totalLetters = 0;
         for (int i = 0; i < 52; i++) {
             Map.Entry<Character, Long> entry = ta.getEntry(i);
-            if (entry != null) {
-                totalLetters += entry.getValue();
-            }
+            totalLetters += entry.getValue();
             System.out.print(entry + " ");
         }
         System.out.println();
