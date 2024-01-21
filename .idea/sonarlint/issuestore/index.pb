@@ -212,3 +212,17 @@ j
 :src/main/java/nullobject/exercise1/TextAnalyzerClient.java,5\6\567b80a401968ed3cb073216c828958a37c1d8dc
 >
 newsletter.txt,a\0\a07fa2b6c8602c1026dcfc38dafb23f950338cb6
+X
+(src/main/java/iterator/AddProcessor.java,c\f\cfff4bccab65db3547cee2e6a204bdace4e0e2ab
+^
+.src/main/java/iterator/CompositeProcessor.java,b\1\b1bd4aef3bcfa873cc779a07b5b16ceb70ac8245
+X
+(src/main/java/iterator/IteratorTest.java,1\9\190a1c45e4307b251edb1c1a672e789c987882bc
+Z
+*src/main/java/iterator/PrintProcessor.java,e\4\e4a0f1b25aacaf87dc9cb5a760d3807d96bbbaf5
+U
+%src/main/java/iterator/Processor.java,4\f\4fb2e5653acdd119849a540a16ff5cfd2bbfac18
+]
+-src/main/java/iterator/WalkingCollection.java,1\4\146b80a0bbfde93a58f31e7c176a7de78250ead0
+d
+4src/main/java/iterator/WalkingCollectionExample.java,f\d\fd8a862a2dc2f710a4df9d980374aa15a3ae4924
