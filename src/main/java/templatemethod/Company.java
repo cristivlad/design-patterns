@@ -13,10 +13,18 @@ public class Company extends TaxPayer {
         return nonProfit;
     }
 
-    public double calculateTax() {
-        if (isNonProfit() || income < 0) {
-            return 0.0;
-        }
-        return income * 0.29;
+    @Override
+    protected double getIncome() {
+        return income;
+    }
+
+    @Override
+    protected double getTaxRate() {
+        return 0.29;
+    }
+
+    @Override
+    protected boolean isTaxExempt() {
+        return isNonProfit() || income < 0;
     }
 }

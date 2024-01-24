@@ -14,18 +14,26 @@ public class Employee extends TaxPayer {
         return foreignResident;
     }
 
-    public double calculateTax() {
-        if (isForeignResident()) {
-            return 0.0;
-        }
+    @Override
+    protected double getIncome() {
+        return income;
+    }
+
+    @Override
+    protected double getTaxRate() {
         if (income < 20000) {
             return 0.0;
         } else if (income < 50000) {
-            return income * 0.1;
+            return  0.1;
         } else if (income < 100000) {
-            return income * 0.25;
+            return 0.25;
         } else {
-            return income * 0.45;
+            return 0.45;
         }
+    }
+
+    @Override
+    protected boolean isTaxExempt() {
+        return isForeignResident();
     }
 }

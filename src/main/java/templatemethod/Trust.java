@@ -13,11 +13,17 @@ public class Trust extends TaxPayer {
         return disability;
     }
 
-    private double getTaxRate() {
+    protected double getTaxRate() {
         return 0.40;
     }
 
-    public double calculateTax() {
-        return disability || income < 0 ? 0.0 : income * getTaxRate();
+    @Override
+    protected boolean isTaxExempt() {
+        return disability || income < 0;
+    }
+
+    @Override
+    protected double getIncome() {
+        return income;
     }
 }
